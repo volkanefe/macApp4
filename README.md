@@ -1,12 +1,6 @@
 # macApp4 – Menü Çubuğu Ağ Gözlem Aracı (macOS için)
 
-![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
-![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-## 🧩 Proje Hakkında
-
-**macApp4**, macOS menü çubuğunda çalışan hafif bir uygulamadır. Anlık olarak:
+macOS menü çubuğunda çalışan hafif bir uygulamadır. Anlık olarak:
 
 - Yerel IP adresinizi,
 - MAC adresinizi,
@@ -66,18 +60,11 @@ open macApp4.xcodeproj
 
 4.	Run butonuna tıklayarak uygulamayı başlatın.
 
-🧪 Geliştirme Notları
-	•	MAC adresi elde etme işlemi bazı macOS sürümlerinde sandbox kısıtlamalarına takılabilir.
-	•	Uygulama, dock görünümüne sahip değildir, yalnızca sistem menüsünde çalışır.
-	•	Kod modüler yapıdadır: Ağ işlemleri ayrı dosyalara ayrılmıştır.
+🧪 **Geliştirme Notları**
+ - MAC adresi elde etme işlemi bazı macOS sürümlerinde sandbox kısıtlamalarına takılabilir.
+ - Uygulama, dock görünümüne sahip değildir, yalnızca sistem menüsünde çalışır.
+ - Kod modüler yapıdadır: Ağ işlemleri ayrı dosyalara ayrılmıştır.
 
-📝 Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır.
-
-👨‍💻 Geliştirici
-
-Volkan Efe
-🔗 [GitHub](https://github.com/volkanefe)
 
 
