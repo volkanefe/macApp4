@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/7e6160c4-da6b-48aa-9609-7b3c6ebd62b6
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciAdi/macApp4.git
+   git clone https://github.com/volkanefe/macApp4.git
    cd macApp4
 
 2.	Xcode ile açın:
